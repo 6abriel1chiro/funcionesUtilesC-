@@ -46,7 +46,7 @@ void numerosAbundantes(){
 int sumaDivisores=0;
 	int numero, i, resto;
 	cout << "Este proceso muestra si un numero es abundante" << endl;
-	cout << "Dime un número: ";
+	cout << "Dime un nÃºmero: ";
 	cin >> numero;
 	cout << "Sus divisores son: ";
 		for (i=1; i<=numero ; i++)
